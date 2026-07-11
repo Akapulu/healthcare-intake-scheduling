@@ -1,5 +1,7 @@
 # Healthcare Intake & Scheduling
 
+[Read this example in our docs →](https://docs.akapulu.com/examples/scenarios/healthcare-intake-scheduling)
+
 A scenario tutorial for Akapulu Labs. The avatar acts as a friendly medical
 screening assistant: it collects intake details, looks at the patient's camera
 on request (vision), books an appointment through HTTP endpoints, and answers
