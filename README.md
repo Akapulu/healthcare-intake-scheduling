@@ -236,6 +236,7 @@ const connectPayload = {
     today: new Date().toISOString().slice(0, 10),
   },
   record_conversation: true,
+  show_ai_label: false,
 };
 ```
 
