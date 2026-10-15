@@ -1,3 +1,5 @@
+**Deprecated.** This repository is not maintained. The current public example is [akapulu-examples](https://github.com/Akapulu/akapulu-examples).
+
 # Healthcare Intake & Scheduling
 
 [Read this example in our docs →](https://docs.akapulu.com/examples/scenarios/healthcare-intake-scheduling)
